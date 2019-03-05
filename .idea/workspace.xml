@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf1c3fc2-32fd-4e65-a7ef-afd226559144" name="Default Changelist" comment="" />
+    <list default="true" id="cf1c3fc2-32fd-4e65-a7ef-afd226559144" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/venv/AmineElmouradi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/GameTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/IbtissamAitMessaoud/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/ImaneElmouradi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/KaoutarAlaiyachi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/MehdiAitLhaj/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/Game/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -51,13 +59,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -77,6 +87,24 @@
             </path>
             <path>
               <item name="ProjectRamses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectRamses" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="AmineElmouradi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectRamses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectRamses" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="KaoutarAlaiyachi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectRamses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectRamses" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="MehdiAitLhaj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectRamses" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -89,6 +117,13 @@
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; Python 3.7 (ProjectRamses) (3) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectRamses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (ProjectRamses) (3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="AmineElmouradi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProjectRamses" type="b2602c69:ProjectViewProjectNode" />
@@ -96,6 +131,41 @@
               <item name="&lt; Python 3.7 (ProjectRamses) (3) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectRamses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (ProjectRamses) (3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="GameTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectRamses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (ProjectRamses) (3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="IbtissamAitMessaoud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectRamses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (ProjectRamses) (3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="ImaneElmouradi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectRamses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (ProjectRamses) (3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="KaoutarAlaiyachi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectRamses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (ProjectRamses) (3) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="MehdiAitLhaj" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Game/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
