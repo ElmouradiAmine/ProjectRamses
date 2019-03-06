@@ -33,6 +33,7 @@ class Game :
 
 
     def update(self):
+        # Game Loop - Update
         self.all_sprites.update()
 
     def events(self):
@@ -40,7 +41,7 @@ class Game :
             if event.type == pygame.QUIT:
                 if self.playing:
                     self.playing = False
-                self.running = False
+                self.running = False #if you stop playing the game (self.playing = False) then you stop the chole program 
 
 
     def draw(self):
